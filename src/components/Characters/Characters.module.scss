@@ -1,0 +1,13 @@
+.Cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    color: white;
+}
+
+// .Card {
+//     cursor: pointer;
+//     background-color: transparent;
+//     height: 300px;
+//     perspective: 1000px;
+// }
